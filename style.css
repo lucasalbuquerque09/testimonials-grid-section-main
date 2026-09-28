@@ -1,0 +1,27 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Root Variables */
+:root {
+    
+    /* Primary */
+    --purple50: #eee5ff;
+    --purple300: #c4a2f6;
+    --purple500: #7541c8;
+    
+    /* Neutral */
+    --white: #ffffff;
+    --grey100: #e7eaee;
+    --grey200: #cfcfcf;
+    --grey400: #676d7e;
+    --grey500: #48556a;
+    --darkblue: #19212e;
+    --black: #121212;
+    
+    /* Font */
+    --font-family: "Barlow Semi Condensed", sans-serif;
+}
